@@ -104,7 +104,7 @@ CAR_PRICE_PROJECT/
 ###  Clone Repository
 
 ```bash
-git clone https://github.com/your-username/car-price-dashboard.git
+git clone https://github.com/VinithaAbhinasshree9/car-price-dashboard.git
 cd car-price-dashboard
 ```
 
